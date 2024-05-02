@@ -8,4 +8,4 @@
 - 📫 Reach me at: ibrahimmkhalid@gmail.com
 - ⚡ Random facts about me: Gamer, bookworm, cat lover, coffee hater, neovim enjoyer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmkhalid&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact)](https://github.com/ibrahimmkhalid)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimmkhalid&hide=jupyter%20notebook,tex&show_icons=true&locale=en&layout=compact)](https://github.com/ibrahimmkhalid)
