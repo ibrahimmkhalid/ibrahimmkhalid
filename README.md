@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Khalid</h1>
 
-- 🙌 I’m looking for a software engineering internship for the summer of 2024
+- 🙌 I’m looking for a software engineering position focusing on tool engineering or backend development 
 - 🎓 Currently a student at San Jose State University, pursuing a master's degree in Data Analytics
 - 🖥️ Passionate about software engineering, often working on random projects for fun
-- 💡 Experienced in Python, REST APIs, MySQL, PHP, JavaScript
+- 💡 Experienced in Python, REST APIs, MySQL, PHP, JavaScript, Golang
 - 📘 View my current resume [here](https://drive.google.com/file/d/19qmTRpP0RprfNma2gAVtgAg8XbIYtNOv/view?usp=sharing)
 - 📫 Reach me at: ibrahimmkhalid@gmail.com
 - ⚡ Random facts about me: Gamer, bookworm, cat lover, coffee hater, neovim enjoyer
